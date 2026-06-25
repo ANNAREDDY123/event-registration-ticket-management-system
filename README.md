@@ -19,4 +19,3 @@ FastAPI Event Registration &amp; Ticket Management System with Event Management,
 ### Authentication
 POST /auth/register
 POST /auth/login
-GET /
