@@ -30,5 +30,4 @@ class Registration(Base):
 
     registration_date = Column(
         DateTime,
-        default=datetime.utcnow
-    )
+        default=datetime.utcnow)
