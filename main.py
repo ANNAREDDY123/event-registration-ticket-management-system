@@ -41,5 +41,4 @@ def home():
 
     return {
         "message":
-        "Event Registration & Ticket Management System"
-    }
+        "Event Registration & Ticket Management System"}
