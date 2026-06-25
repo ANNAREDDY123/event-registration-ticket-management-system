@@ -163,5 +163,4 @@ def delete_event(
 
     return {
         "message":
-        "Event deleted"
-    }
+        "Event deleted" }
